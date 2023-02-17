@@ -188,3 +188,21 @@ color:#7700ff
 /* 1200px
 992px
 768px
+*/
+.skills .container{
+display: grid;
+text-align: center;
+gap: 2rem;
+margin-top:4rem;
+margin-bottom: 4rem;  
+
+}
+.skills h2{
+  font-size: medium;
+  font-weight: 500;
+  border-bottom: 5px solid #7700ff;
+  padding-bottom: 1rem;
+}
+.skills .skills-wrapper{
+  display
+}
